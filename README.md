@@ -1,4 +1,4 @@
-## Eu sou Alex Sandro, Bem-vindo!
+## 🙋‍♂️  Eu sou Alex Sandro, Bem-vindo!
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 <div>
   <a href="https://github.com/alexsanjr"/>
